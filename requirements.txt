@@ -1,6 +1,6 @@
 praw~=7.6.0
 moviepy~=1.0.3
-rich~=12.4.4
+rich~=13.1.0
 mutagen~=1.45.1
 playwright~=1.22.0
 python-dotenv==0.20.0
